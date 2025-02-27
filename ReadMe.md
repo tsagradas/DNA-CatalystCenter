@@ -1,3 +1,5 @@
+Planned APs Cisco DNA/Catalyst Center Collection Automation
+
 This automation is particularly useful for Prime to DNA/CC Center migrations or when there are multiple planned Access Points (APs) already present in the system.
 
 
