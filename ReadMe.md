@@ -75,8 +75,8 @@ This script gathers detailed information about each planned Access Point, format
 
 This structured JSON format includes comprehensive details of each planned AP, such as its attributes, location, position, and radio configuration.
 
-
 Note:
-
 Ensure to handle any potential errors, such as a 404 response, which indicates that the requested resource could not be found.
 
+The output while be displayed under the same folder location with the name "combined_response_data.csv"
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
